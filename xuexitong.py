@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 chrome_options = Options()
-#chrome_options.add_argument('--headless')  # 无头浏览器
+chrome_options.add_argument('--headless')  # 无头浏览器
 bro = webdriver.Chrome(executable_path=r'F:/test/chromedriver.exe',options=chrome_options)  # 实例化对象
 bro.get('http://passport2.chaoxing.com/login?fid=&newversion=true&refer=http%3A%2F%2Fi.chaoxing.com')  # 学习通登录url
 username_tag = bro.find_element_by_id('phone')
