@@ -1,3 +1,4 @@
+PS：本文不含有任何妨害防疫政策的暗示，亦不对使用本工具后产生的后果负责，如果您使用了本工具，默认已经接受了此规则
 # tust_xuexitong_upload
 这是一个自我测量温度后能直接填报的工具（仅限于自我测温后填报，请严格遵守学校的各项规章制度）<br />
 需要提前安装<br />
@@ -17,4 +18,4 @@ win：https://blog.csdn.net/qq_43571807/article/details/105664246<br />
 Linux：https://www.cnblogs.com/htybky/p/11747260.html<br />
 python3下测试通过<br />
 Linux环境下需要下载Linux版本的chrom驱动<br />
-PS：本文不含有任何妨害防疫政策的暗示，亦不对使用本工具后产生的后果负责
+
