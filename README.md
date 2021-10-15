@@ -4,7 +4,9 @@
 selenium<br />
 selenium安装方式<br />
 pip install selenium<br />
-chrom版本查询，帮助-》关于chrom查看对应版本号后，查找对应浏览器版本的驱动，windows为chromedriver_win32.zip
+chrom版本查询，<br />
+设置-》帮助-》关于chrom<br />
+查看对应版本号后，查找对应浏览器版本的驱动，windows为chromedriver_win32.zip<br />
 下载地址http://npm.taobao.org/mirrors/chromedriver/<br />
 下载得到zip文件后解压到F:/test/目录下，<br />
 例如本机的驱动地址为F:/test/chromedriver.exe<br />
