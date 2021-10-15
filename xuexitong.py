@@ -2,7 +2,7 @@ from selenium import webdriver
 from time import sleep
 from selenium.webdriver.chrome.options import Options
 
-
+#PS：本文不含有任何妨害防疫政策的暗示，亦不对使用本工具后产生的后果负责，如果您使用了本工具，默认已经接受了此规则
 chrome_options = Options()
 chrome_options.add_argument('--headless')  # 无头浏览器
 bro = webdriver.Chrome(executable_path=r'F:/test/chromedriver.exe',options=chrome_options)  # 实例化对象
