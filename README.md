@@ -12,8 +12,8 @@ chrom版本查询，<br />
 例如本机的驱动地址为F:/test/chromedriver.exe<br />
 
 安装指南请百度<br />
-以下可参考
-win：https://blog.csdn.net/qq_43571807/article/details/105664246
-Linux：https://www.cnblogs.com/htybky/p/11747260.html
-python3下测试通过
-Linux环境下需要下载Linux版本的chrom驱动
+以下可参考<br />
+win：https://blog.csdn.net/qq_43571807/article/details/105664246<br />
+Linux：https://www.cnblogs.com/htybky/p/11747260.html<br />
+python3下测试通过<br />
+Linux环境下需要下载Linux版本的chrom驱动<br />
